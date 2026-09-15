@@ -31,4 +31,4 @@ pip install -r requirements.txt
 Run the tests using:
 
 
-pytest
+python -m pytest
